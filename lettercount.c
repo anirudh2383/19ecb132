@@ -17,12 +17,12 @@ int main(void) {
 
 Output:
 Case - 01
-Enter a sentence: suraj
-The number of letters in the given sentence are : 5
+Enter a sentence: anirudh
+The number of letters in the given sentence are : 7
 
 Case - 02  
-Enter a sentence: suraj aravind
-The number of letters in the given sentence are : 5
+Enter a sentence: anirudh csbs
+The number of letters in the given sentence are : 7
 
 */  
 
