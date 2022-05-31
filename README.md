@@ -8,3 +8,4 @@
 [THREADEDBINARY.C](threadedbinary.c)   
 [IDENTYVOID.C](identyvoid.c)   
 [SPLAYTREE](splaytree.c)   
+[DOUBLE LINKED LIST.C](double_linked_list.c)
