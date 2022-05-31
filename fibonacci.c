@@ -26,3 +26,7 @@ int main() {
 
   return 0;
 }
+/* output
+Enter the number of terms: 1
+Fibonacci Series: 0, 1,
+  */
