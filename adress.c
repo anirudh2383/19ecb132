@@ -20,3 +20,15 @@ int main()
    printf("Value of c: %d\n\n", c); // 2
    return 0;
 }
+/* output 
+Address of c: 0x7fff39d0bd3c
+Value of c: 22
+
+Address of pointer pc: 0x7fff39d0bd3c
+Content of pointer pc: 22
+
+Address of pointer pc: 0x7fff39d0bd3c
+Content of pointer pc: 11
+
+Address of c: 0x7fff39d0bd3c
+Value of c: 2*/
