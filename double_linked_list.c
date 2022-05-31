@@ -34,3 +34,9 @@ int main() {
   } // end of while
   
 } // end of main
+/* output
+*** Doubly Linked List with 3 nodes***
+*** Traversing the elements in the Doubly Linked List***
+0
+1
+2*/
