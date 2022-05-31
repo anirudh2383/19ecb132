@@ -10,4 +10,4 @@
 [SPLAYTREE](splaytree.c)   
 [DOUBLE LINKED LIST.C](double_linked_list.c)   
 [LETTERCOUNT.C](lettercount.c)    
-[BINARYTREE.c](BINARY_TREE.c)    
+[BINARYSEARCHTREE.c](binarysearchtree.c)
