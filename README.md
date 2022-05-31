@@ -7,3 +7,4 @@
 [SUM OF NATURAL.c](sumofnatural.c)  
 [THREADEDBINARY.C](threadedbinary.c)   
 [IDENTYVOID.C](identyvoid.c)   
+[SPLAYTREE](splaytree.c)   
